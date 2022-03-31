@@ -1,3 +1,3 @@
 # bashs
 
-Bash files for better life
+Bash scripts for better life
