@@ -1,0 +1,41 @@
+<monitors version="2">
+  <configuration>
+    <logicalmonitor>
+      <x>2560</x>
+      <y>0</y>
+      <scale>1</scale>
+      <monitor>
+        <monitorspec>
+          <connector>HDMI-0</connector>
+          <vendor>GSM</vendor>
+          <product>LG ULTRAGEAR</product>
+          <serial>109NTYT52418</serial>
+        </monitorspec>
+        <mode>
+          <width>2560</width>
+          <height>1440</height>
+          <rate>99.946434020996094</rate>
+        </mode>
+      </monitor>
+    </logicalmonitor>
+    <logicalmonitor>
+      <x>0</x>
+      <y>0</y>
+      <scale>1</scale>
+      <primary>yes</primary>
+      <monitor>
+        <monitorspec>
+          <connector>DP-0</connector>
+          <vendor>GSM</vendor>
+          <product>LG ULTRAGEAR</product>
+          <serial>108NTPC6V808</serial>
+        </monitorspec>
+        <mode>
+          <width>2560</width>
+          <height>1440</height>
+          <rate>99.946434020996094</rate>
+        </mode>
+      </monitor>
+    </logicalmonitor>
+  </configuration>
+</monitors>
